@@ -20,3 +20,7 @@ footer {
     border-radius: 5px;
     overflow-x: scroll;
 }
+
+.margin-top-10{
+    margin-top: 10px;
+}
